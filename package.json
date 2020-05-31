@@ -1,0 +1,27 @@
+{
+  "name": "optional-monad",
+  "version": "0.1.0",
+  "description": "",
+  "main": "optional.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uk-s/optional-monad.git"
+  },
+  "author": "uk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uk-s/optional-monad/issues"
+  },
+  "homepage": "https://github.com/uk-s/optional-monad#readme",
+  "devDependencies": {
+    "@types/jest": "^23.3.12",
+    "@types/mocha": "^5.2.5",
+    "jest": "^23.6.0",
+    "mocha": "^5.2.0",
+    "ts-jest": "^23.10.5",
+    "typescript": "^3.2.2"
+  }
+}
